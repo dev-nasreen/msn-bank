@@ -1,5 +1,13 @@
+body{
+    background: url("41.jpg") no-repeat 0 0 /cover scroll;
+}
+h1{
+    color: rgb(45, 21, 199);
+    font-size: 45px;
+    font-weight: 700;
+}
 .login-area{
-    margin:0 auto;
+    margin:100px auto;
     width: 70%;
 }
 .submit-area{
@@ -19,7 +27,7 @@
     color:#fff;
 }
 .status h5{
-    font-size: 25px;
+    font-size: 35px;
 }
 .deposit{
     background-color: slateblue;
@@ -29,4 +37,9 @@
 }
 .balance{
     background-color: orange;
+}
+.submit-area h4{
+    color:rgb(45, 21, 199);
+    font-size: 25px;
+    font-weight: 700;
 }
